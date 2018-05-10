@@ -105,3 +105,4 @@ ENV/
 
 # Pixelmator
 src/gfx/*.pxd/
+*.sav
